@@ -1,10 +1,9 @@
+Olawale Juwon -@OlawaleJuwonM
 Adeyemi Oluwatobi @DevTobi
 AbdulJaleel AbdulSamad @AbdulSamad
 Chukwu Augustine - @Austin-Deccentric
-<<<<<<< HEAD
 Deep Antala
 otenaike oluwatobi - @sylvercodez
-=======
 Deep Antala @DeepAntala
 Caleb Jesusegun - @Caleb.Jesusegun
 Badejo Adesire @Adesire
@@ -33,7 +32,6 @@ Bukunmi Olowokere - @Bukunmi
 
 
 
->>>>>>> 8803e21a63c5d93c0af7e2e4b2fd2e28af704f14
 
 
 
